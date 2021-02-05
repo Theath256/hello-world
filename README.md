@@ -1,6 +1,6 @@
 # hello-world
 test repository
 
-test test test test test test test
+Hello there,
 
-testing the test
+This is a test to test this site
